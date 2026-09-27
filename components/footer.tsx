@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
                 <BookOpen className="w-5 h-5" />
               </div>
               <span className="text-xl font-bold font-serif text-white tracking-wide">
-                PAPER & INK
+                SACHI
               </span>
             </div>
             <p className="text-xs text-[#E8DED2]/80 leading-relaxed font-light">
@@ -69,7 +69,7 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-[#C86D51] shrink-0" />
-                <span>hello@paperandink.shop</span>
+                <span>hello@sachi.shop</span>
               </li>
             </ul>
           </div>
@@ -93,7 +93,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="pt-6 border-t border-[#6B4F3A]/40 flex flex-col sm:flex-row items-center justify-between text-xs text-[#E8DED2]/60 gap-3">
-          <p>© 2026 Paper & Ink Stationery Shop. All rights reserved.</p>
+          <p>© 2026 Sachi Stationery Shop. All rights reserved.</p>
           <div className="flex items-center gap-1 text-[11px]">
             <span>Designed with</span>
             <Heart className="w-3.5 h-3.5 text-[#C86D51] fill-current" />

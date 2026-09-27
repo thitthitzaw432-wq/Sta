@@ -39,7 +39,7 @@ export const Navbar: React.FC = () => {
                 </div>
                 <div>
                   <span className="text-xl font-bold tracking-tight text-[#3E2C20] block leading-tight font-serif">
-                    PAPER & INK
+                    SACHI
                   </span>
                   <span className="text-[10px] text-[#75675C] tracking-widest uppercase block -mt-1 font-medium">
                     Stationery Shop

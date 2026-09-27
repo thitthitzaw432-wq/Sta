@@ -548,7 +548,7 @@ The homepage should immediately show what the shop sells.
 
 ```text
 ┌──────────────────────────────────┐
-│  PAPER & INK              🛒     │
+│  SACHI                     🛒     │
 │                                  │
 │  Find your next favorite ✨      │
 │                                  │

@@ -5,7 +5,7 @@ import { Navbar } from '@/components/navbar';
 import { Footer } from '@/components/footer';
 
 export const metadata: Metadata = {
-  title: 'Paper & Ink — Warm & Minimalist Stationery Online Shop',
+  title: 'Sachi — Warm & Minimalist Stationery Online Shop',
   description: 'Discover handcrafted leather journals, solid brass gel pens, aesthetic highlighters, and fine paper supplies.',
 };
 

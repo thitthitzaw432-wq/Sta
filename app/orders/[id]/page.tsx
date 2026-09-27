@@ -53,7 +53,7 @@ export default function OrderConfirmationPage() {
             Order Confirmed!
           </h1>
           <p className="text-xs sm:text-sm text-[#75675C] mt-1">
-            Thank you for shopping with Paper & Ink Stationery. We have received your order.
+            Thank you for shopping with Sachi Stationery. We have received your order.
           </p>
         </div>
 
